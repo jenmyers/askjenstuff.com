@@ -1,0 +1,12 @@
+---
+layout: default
+title: Home
+---
+
+<ul class="answer-list">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date_to_long_string }}</span>
+    </li>
+  {% endfor %}
+</ul>
