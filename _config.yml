@@ -2,8 +2,7 @@
 title: Ask Jen
 email: askjen@jenmyers.net
 description: 
-baseurl: ""
-url: "http://askjenstuff.com"
+baseurl: "http://askjenstuff.com"
 
 # Build settings
 markdown: kramdown
