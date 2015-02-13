@@ -1,0 +1,22 @@
+---
+layout: post
+title: On finding your creative place
+---
+
+Where do I fit in the creative world as a beginner? Trying different creative pursuits or trying to enter a certain industry as someone less experienced always makes me feel like an outsider. Advice to beginners that we matter because "everyone has a voice" is lost on me when I'm unsure what that voice even is. The world is oversaturated with voices trying to do the next big fantastic thing, and it's hard to imagine ever being able to compete; creatively, professionally. One day I can be in the place of the more experienced, but for now I'm just learning, and don't fell like its my place to be a part of anything where others are already doing the work.
+ 
+Well, let’s first acknowledge this: you’re not wrong in feeling this way, not because you deserve to, but because we’re in a system that works this way. I say this first because it’s important to understand that I understand my advice is going to ask you to work against the system and is therefore going to be more difficult.
+ 
+Unfortunately, there is no easy answer. We have built a culture that fetishizes expertise for the sake of ego and treats learning and creativity as means to an end only. Which means that we don’t have a culture that values, supports and celebrates the learning and creative process.
+ 
+So, if you want to do something different, here’s what you have to do, in three steps: 1) you have to value, support and celebrate your learning and creativity on your own, and 2) you have to let go of the notion of linear, finite journeys, and 3) you have find whatever ways you can to do what you believe in, and keep doing them until you can make your own place. That last part is really the secret. There is no trying to find your right place already in existence. There is only making your own place.
+ 
+Now, how do you do this? You get a job that sustains you. Materially for sure, mentally and emotionally if possible. Don’t worry right now about finding the perfect job for the sake of your career. Cliched phrasing aside, your career is not a destination. It’s a journey that you make up based on who you are, not based how you’re expected to be (because how you’re expected to be will be like everyone else and that’s not going to get you any where but the same place everyone else is). Who you are can and should change as you grow and discover. If you’re not open and ready for that discovery, you’ll wake up three decades from now and realize you missed it all.
+ 
+If the job that sustains you is what you’re passionate about doing, that’s awesome. Put your head down and do it. If it’s not, do what you’re passionate about in the margins. If you don’t know what you’re passionate about, try new things in the margins. Keep learning. Don’t compete with anyone. Fuck stuff up. Work on your swagger. Don’t apologize. Find people you can trust to back you up. Take care of the people you need. Prepare for battle every single day.
+ 
+Because, if you’re asking this question, you are a truth seeker, and you will always be an outsider. You have to accept that. Actually, you don’t have to, but this is your choice to make. Choose success on their terms and maybe you can get it, but you won’t find your truth. Choose searching for your truth, and it’s going to be a long, difficult path, and there are no guarantees of what you’re going to end up with. But, if you are a truth seeker, there is not even a chance of peace unless you go try to find it.
+ 
+I get up at 5am every morning to write before I have to get my daughter ready for school and start my day job. I write these things, because I am passionate about writing what I want to write on my own terms. I’ve spent over a decade fumbling around with a “career” so that I can create my own foundation and own platform. Every bit of success I’ve got has come from fumbling and pushing in where I wasn’t supposed to and stubbornly finding ways to do things I wanted to do. None of the ways existed before, I had to make them. I’m still working on it all. It will take years more. But I chose this path and I don’t regret it. Every day that I keep pushing, I am able to make more and more happen on my own terms.
+ 
+In short, remember [Hunter’s advice](http://en.wikiquote.org/wiki/Hunter_S._Thompson): _“Walk tall, kick ass, learn to speak Arabic, love music and never forget you come from a long line of truth seekers, lovers and warriors.”_ And keep going.
