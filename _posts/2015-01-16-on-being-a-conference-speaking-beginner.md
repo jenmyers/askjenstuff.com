@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  On being a conference speaking beginner
+title: On being a conference speaking beginner
 ---
 
 I found a conference that I would love to talk at. As a new developer in the field though, would it be wise to have someone nominate me rather than submit myself? I have a talk in mind and would love to practice my public speaking skills. However, should I even consider it if I'm just shy of year of development skills under my belt?
